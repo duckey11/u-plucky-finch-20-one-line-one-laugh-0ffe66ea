@@ -5,7 +5,7 @@ import os
 
 ENTRY = (
     "I hired Marco the magician for my daughter's seventh birthday. "
-    "He sawed the cake in half and billed me for two birthdays."
+    "He sawed the cake in half and invoiced me for two birthdays."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
